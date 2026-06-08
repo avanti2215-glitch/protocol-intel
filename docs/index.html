@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Protocol Health — Weekly Industry Brief</title>
+<style>
+:root { color-scheme: light; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: #f6f7f9; color: #1a1d21; line-height: 1.55;
+  padding: 26px; max-width: 1060px; margin: 0 auto;
+}
+header h1 { font-size: 25px; font-weight: 700; letter-spacing: -0.01em; }
+.sub { color: #5b6470; font-size: 14px; margin-top: 5px; }
+.meta-row {
+  display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center;
+  margin: 15px 0 18px; font-size: 12.5px; color: #5b6470;
+}
+.meta-row strong { color: #1a1d21; font-weight: 600; }
+.pulse { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #16a34a; margin-right: 6px; vertical-align: middle; }
+
+.scope {
+  background: #fff; border: 1px solid #e6e9ed; border-left: 3px solid #1a1d21;
+  border-radius: 10px; padding: 14px 16px; margin-bottom: 18px; font-size: 13px; color: #444c56;
+}
+.scope b { color: #1a1d21; }
+
+.countline { font-size: 13px; color: #3a414b; margin: 4px 0 16px; }
+.countline b { color: #1a1d21; }
+
+.filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+.filters button {
+  border: 1px solid #d8dde3; background: #fff; color: #3a414b;
+  padding: 6px 14px; border-radius: 999px; font-size: 13px; cursor: pointer;
+  transition: all .12s ease; font-weight: 500;
+}
+.filters button:hover { border-color: #9aa3ad; }
+.filters button.active { background: #1a1d21; color: #fff; border-color: #1a1d21; }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 14px; }
+.card {
+  background: #fff; border: 1px solid #e6e9ed; border-radius: 12px; padding: 17px 18px;
+  display: flex; flex-direction: column; gap: 10px;
+}
+.card .toprow { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.tags { display: flex; gap: 6px; flex-wrap: wrap; }
+.tag {
+  font-size: 10.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em;
+  padding: 3px 8px; border-radius: 5px; white-space: nowrap;
+}
+.tag.macro { background: #eef4ff; color: #2563c4; }
+.tag.micro { background: #f0f7ee; color: #3d8b3d; }
+.tag.cat { background: #f1f3f5; color: #5b6470; }
+.date { font-size: 11.5px; color: #8a929c; white-space: nowrap; font-weight: 600; }
+.card h3 { font-size: 15.5px; font-weight: 650; line-height: 1.35; }
+.card .summary { font-size: 13.5px; color: #444c56; }
+.card .why { font-size: 12.5px; color: #6a727c; border-top: 1px dashed #e6e9ed; padding-top: 9px; }
+.card .why b { color: #b9701b; font-weight: 700; }
+.card a.src { font-size: 12px; color: #2563c4; text-decoration: none; margin-top: auto; }
+.card a.src:hover { text-decoration: underline; }
+
+footer { margin-top: 30px; font-size: 11.5px; color: #9aa3ad; border-top: 1px solid #e6e9ed; padding-top: 14px; }
+.disclaimer { font-size: 11.5px; color: #9aa3ad; margin-top: 8px; font-style: italic; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Protocol Health — Weekly Industry Brief</h1>
+  <div class="sub">Global diagnostics, clinical &amp; preventive-health / longevity space &middot; macro &amp; micro</div>
+</header>
+
+<div class="meta-row">
+  <span><span class="pulse"></span><strong>Auto-updates weekly</strong> (Mondays)</span>
+  <span>This edition: <strong>8 June 2026</strong></span>
+  <span>Coverage window: <strong>1&ndash;8 June 2026</strong></span>
+</div>
+
+<div class="scope">
+  <b>What this is.</b> A weekly scan of the global space Protocol Health (protocolhealth.sg) competes in &mdash; preventive &amp; diagnostic-led care, biomarker screening, multi-cancer early detection, GLP-1 / weight management, hormone therapy, and longevity. It surfaces new innovations, new tests, new products/services, and notable announcements at both a <b>macro</b> (market, funding, regulation, clinical evidence) and <b>micro</b> (specific tests, SKUs, pricing) level. <b>Strict rule:</b> only items datable to the past 7 days are included &mdash; verified, sourced, and dropped if the date can&rsquo;t be confirmed.
+</div>
+
+<div class="countline" id="countline"></div>
+
+<div class="filters" id="filters">
+  <button data-f="all" class="active">All</button>
+  <button data-f="macro">Macro</button>
+  <button data-f="micro">Micro</button>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<footer>
+  Every card links its source. Figures are approximate and drawn from secondary reporting where noted &mdash; verify before forwarding to management. Items that could not be dated to the coverage window were excluded by design, so a light week shows fewer items rather than filler.
+  <div class="disclaimer">Auto-generated weekly brief covering the global preventive-health / diagnostics / longevity industry. Informational only &mdash; not investment or medical advice.</div>
+</footer>
+
+<script>
+const items = [
+  {
+    level: "micro", levelLabel: "Micro", cat: "New test / innovation", date: "~4 Jun 2026",
+    title: "Blood test flags lung-cancer risk up to 5 years early via 14-protein signature",
+    summary: "Researchers reported a 14-protein blood signature, identified with machine learning on plasma from 48,000+ people and validated across eight datasets, that predicts lung-cancer risk years before diagnosis by detecting an altered inflammatory lung environment.",
+    why: "Another proof point that <b>predictive multi-biomarker blood panels</b> &mdash; the heart of Protocol's screening proposition &mdash; keep advancing toward earlier risk detection. A future SKU candidate and a tailwind for the &lsquo;screen earlier&rsquo; narrative.",
+    src: "https://medicalxpress.com/news/2026-06-blood-proteins-lung-cancer-years.html",
+    srcLabel: "MedicalXpress"
+  },
+  {
+    level: "macro", levelLabel: "Macro", cat: "Clinical evidence", date: "4 Jun 2026",
+    title: "GRAIL's Galleri multi-cancer test: NHS trial reappraised after ‘negative’ headline",
+    summary: "An oncologist op-ed in STAT unpacked the first RCT of an MCED test (NHS-Galleri): ~99.55% specificity, 52% PPV, 54.7% sensitivity for 12 prespecified cancers (30.7% across all), arguing the &lsquo;negative&rsquo; framing misses real signal on stage-shift and feasibility at national scale.",
+    why: "MCED is the exact category Protocol's <b>SPOT-MAS</b> line sits in. How the evidence debate resolves directly shapes how aggressively Protocol can position multi-cancer screening claims to patients.",
+    src: "https://www.statnews.com/2026/06/04/grail-multi-cancer-early-detection-test-trial-results/",
+    srcLabel: "STAT News"
+  },
+  {
+    level: "macro", levelLabel: "Macro", cat: "Regulation & pricing", date: "4 Jun 2026",
+    title: "US Medicare GLP-1 ‘Bridge’ demonstration to begin July 2026",
+    summary: "Medicare confirmed a weight-loss-drug demonstration starting July 2026: Ozempic, Wegovy, Mounjaro and Zepbound priced at ~US$245/month with beneficiary copays of ~US$50/month.",
+    why: "Reinforces the <b>GLP-1 price-compression risk</b> already flagged in Protocol's competitor brief. Government-anchored pricing pulls the global reference point down further &mdash; pressure on the weight-management AOV assumption.",
+    src: "https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026",
+    srcLabel: "Medicare Rights Center"
+  },
+  {
+    level: "macro", levelLabel: "Macro", cat: "Consumer trend", date: "3 Jun 2026",
+    title: "Wellness Index Report: demand shifting from ‘longevity’ to root-cause health",
+    summary: "A new Wellness Index Report flags an evolution in consumer priorities &mdash; growing use of personalized diagnostics to uncover root causes, rising demand for non-pharma pain management, and more emphasis on human connection and mental wellness.",
+    why: "Validates demand for <b>diagnostics-led, root-cause care</b> (Protocol's model) but signals the messaging frame is moving beyond the &lsquo;longevity&rsquo; label &mdash; worth testing in CHT positioning.",
+    src: "https://www.newsfilecorp.com/release/299961/Wellness-Index-Report-Highlights-Shift-from-Longevity-to-RootCause-Health-and-Human-Potential",
+    srcLabel: "Newsfile / Wellness Index Report"
+  }
+];
+
+const grid = document.getElementById('grid');
+const countline = document.getElementById('countline');
+
+function render(filter) {
+  grid.innerHTML = '';
+  const shown = items.filter(i => filter === 'all' || i.level === filter);
+  shown.forEach(i => {
+    const c = document.createElement('div');
+    c.className = 'card';
+    c.innerHTML = `
+      <div class="toprow">
+        <span class="tags">
+          <span class="tag ${i.level}">${i.levelLabel}</span>
+          <span class="tag cat">${i.cat}</span>
+        </span>
+        <span class="date">${i.date}</span>
+      </div>
+      <h3>${i.title}</h3>
+      <div class="summary">${i.summary}</div>
+      <div class="why"><b>Why it matters:</b> ${i.why}</div>
+      <a class="src" href="${i.src}" target="_blank" rel="noopener">Source: ${i.srcLabel} &rarr;</a>
+    `;
+    grid.appendChild(c);
+  });
+}
+
+countline.innerHTML = `<b>${items.length} items</b> passed the within-the-week filter for 1&ndash;8 June 2026.`;
+render('all');
+
+document.getElementById('filters').addEventListener('click', e => {
+  if (e.target.tagName !== 'BUTTON') return;
+  document.querySelectorAll('#filters button').forEach(b => b.classList.remove('active'));
+  e.target.classList.add('active');
+  render(e.target.dataset.f);
+});
+</script>
+</body>
+</html>
