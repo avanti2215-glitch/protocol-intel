@@ -1,50 +1,50 @@
 {
-  "edition": "8 June 2026",
-  "windowLabel": "1–8 June 2026",
+  "edition": "15 June 2026",
+  "windowLabel": "8–15 June 2026",
   "items": [
-    {
-      "level": "micro",
-      "levelLabel": "Micro",
-      "cat": "New test / innovation",
-      "date": "~4 Jun 2026",
-      "title": "Blood test flags lung-cancer risk up to 5 years early via 14-protein signature",
-      "summary": "Researchers reported a 14-protein blood signature, identified with machine learning on plasma from 48,000+ people and validated across eight datasets, that predicts lung-cancer risk years before diagnosis by detecting an altered inflammatory lung environment.",
-      "why": "Another proof point that <b>predictive multi-biomarker blood panels</b> &mdash; the heart of Protocol's screening proposition &mdash; keep advancing toward earlier risk detection. A future SKU candidate and a tailwind for the &lsquo;screen earlier&rsquo; narrative.",
-      "src": "https://medicalxpress.com/news/2026-06-blood-proteins-lung-cancer-years.html",
-      "srcLabel": "MedicalXpress"
-    },
     {
       "level": "macro",
       "levelLabel": "Macro",
       "cat": "Clinical evidence",
-      "date": "4 Jun 2026",
-      "title": "GRAIL's Galleri multi-cancer test: NHS trial reappraised after ‘negative’ headline",
-      "summary": "An oncologist op-ed in STAT unpacked the first RCT of an MCED test (NHS-Galleri): ~99.55% specificity, 52% PPV, 54.7% sensitivity for 12 prespecified cancers (30.7% across all), arguing the &lsquo;negative&rsquo; framing misses real signal on stage-shift and feasibility at national scale.",
-      "why": "MCED is the exact category Protocol's <b>SPOT-MAS</b> line sits in. How the evidence debate resolves directly shapes how aggressively Protocol can position multi-cancer screening claims to patients.",
-      "src": "https://www.statnews.com/2026/06/04/grail-multi-cancer-early-detection-test-trial-results/",
+      "date": "8 Jun 2026",
+      "title": "AstraZeneca's oral GLP-1 elecoglipron posts ~11.8% weight loss, advances to Phase 3",
+      "summary": "AstraZeneca reported Phase 2b VISTA data showing daily oral elecoglipron drove roughly 10.5% weight loss at 26 weeks (about 11.8% at 36 weeks) versus ~0.6% for placebo, alongside type 2 diabetes data from the SOLSTICE trial. Results were presented at the ADA 2026 Scientific Sessions and published in The Lancet, and AstraZeneca is moving the small-molecule GLP-1 into an extensive Phase 3 programme. (Figures approximate — verify against primary sources.)",
+      "why": "An oral GLP-1 nearing pivotal trials signals <b>cheaper, needle-free weight-loss options</b> that could reshape the economics of Protocol's GLP-1 medical weight-loss line.",
+      "src": "https://www.statnews.com/2026/06/08/astrazeneca-obesity-diabetes-treatment-studies/",
       "srcLabel": "STAT News"
     },
     {
       "level": "macro",
       "levelLabel": "Macro",
-      "cat": "Regulation & pricing",
-      "date": "4 Jun 2026",
-      "title": "US Medicare GLP-1 ‘Bridge’ demonstration to begin July 2026",
-      "summary": "Medicare confirmed a weight-loss-drug demonstration starting July 2026: Ozempic, Wegovy, Mounjaro and Zepbound priced at ~US$245/month with beneficiary copays of ~US$50/month.",
-      "why": "Reinforces the <b>GLP-1 price-compression risk</b> already flagged in Protocol's competitor brief. Government-anchored pricing pulls the global reference point down further &mdash; pressure on the weight-management AOV assumption.",
-      "src": "https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026",
-      "srcLabel": "Medicare Rights Center"
+      "cat": "Consumer trend",
+      "date": "13 Jun 2026",
+      "title": "Patients move less after starting GLP-1s, raising muscle-loss concerns (ENDO 2026)",
+      "summary": "A retrospective analysis of NIH All of Us data (753 adults with adequate wearable data) presented at ENDO 2026 found daily steps fell from about 5,047 to 4,487 and moderate-to-vigorous activity dropped from ~27.9 to ~22.2 minutes per day after starting a GLP-1. Declines were steepest among men and people with musculoskeletal pain. (Figures approximate.)",
+      "why": "Reinforces the case for Protocol's <b>coaching and muscle-preserving wraparound</b> alongside GLP-1 prescriptions, rather than medication alone.",
+      "src": "https://www.healio.com/news/endocrinology/20260613/exercise-declined-in-patients-with-obesity-after-starting-a-glp1",
+      "srcLabel": "Healio"
     },
     {
       "level": "macro",
       "levelLabel": "Macro",
-      "cat": "Consumer trend",
-      "date": "3 Jun 2026",
-      "title": "Wellness Index Report: demand shifting from ‘longevity’ to root-cause health",
-      "summary": "A new Wellness Index Report flags an evolution in consumer priorities &mdash; growing use of personalized diagnostics to uncover root causes, rising demand for non-pharma pain management, and more emphasis on human connection and mental wellness.",
-      "why": "Validates demand for <b>diagnostics-led, root-cause care</b> (Protocol's model) but signals the messaging frame is moving beyond the &lsquo;longevity&rsquo; label &mdash; worth testing in CHT positioning.",
-      "src": "https://www.newsfilecorp.com/release/299961/Wellness-Index-Report-Highlights-Shift-from-Longevity-to-RootCause-Health-and-Human-Potential",
-      "srcLabel": "Newsfile / Wellness Index Report"
+      "cat": "Regulation & pricing",
+      "date": "10 Jun 2026",
+      "title": "Canada launches new preventive-health advisory committee on cancer screening",
+      "summary": "Canada's federal government announced a new preventive health care advisory committee on 10 June to issue guidance on screening for conditions including cervical and breast cancer, after disbanding its previous task force. The committee is intended to set national screening recommendations.",
+      "why": "Government-level screening-guidance shifts in major markets foreshadow <b>evolving standards Protocol's screening protocols</b> should track and benchmark against.",
+      "src": "https://www.cbc.ca/news/health/canada-preventive-health-committee-9.7230303",
+      "srcLabel": "CBC News"
+    },
+    {
+      "level": "micro",
+      "levelLabel": "Micro",
+      "cat": "New product / innovation",
+      "date": "8 Jun 2026",
+      "title": "Longevitix launches AI 'clinical intelligence' platform for longevity & preventive clinics",
+      "summary": "Longevitix launched a platform that unifies labs, wearables, notes and clinical history into physician-ready summaries, prioritized insights and personalized intervention plans across cardiovascular, metabolic, hormonal, thyroid and other domains. It is aimed at longevity, concierge, functional and preventive-medicine clinics.",
+      "why": "Directly relevant to Protocol's <b>integrated screening-plus-data model</b> — a competing toolset for turning multi-omic screening data into clinician-ready plans.",
+      "src": "https://www.globenewswire.com/news-release/2026/06/08/3308080/0/en/Longevitix-Launches-Clinical-Intelligence-Platform-for-Preventive-and-Longevity-Medicine.html",
+      "srcLabel": "GlobeNewswire"
     }
   ]
 }
