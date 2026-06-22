@@ -1,50 +1,28 @@
 {
-  "edition": "15 June 2026",
-  "windowLabel": "8–15 June 2026",
+  "edition": "22 June 2026",
+  "windowLabel": "16–22 June 2026",
   "items": [
     {
       "level": "macro",
       "levelLabel": "Macro",
-      "cat": "Clinical evidence",
-      "date": "8 Jun 2026",
-      "title": "AstraZeneca's oral GLP-1 elecoglipron posts ~11.8% weight loss, advances to Phase 3",
-      "summary": "AstraZeneca reported Phase 2b VISTA data showing daily oral elecoglipron drove roughly 10.5% weight loss at 26 weeks (about 11.8% at 36 weeks) versus ~0.6% for placebo, alongside type 2 diabetes data from the SOLSTICE trial. Results were presented at the ADA 2026 Scientific Sessions and published in The Lancet, and AstraZeneca is moving the small-molecule GLP-1 into an extensive Phase 3 programme. (Figures approximate — verify against primary sources.)",
-      "why": "An oral GLP-1 nearing pivotal trials signals <b>cheaper, needle-free weight-loss options</b> that could reshape the economics of Protocol's GLP-1 medical weight-loss line.",
-      "src": "https://www.statnews.com/2026/06/08/astrazeneca-obesity-diabetes-treatment-studies/",
-      "srcLabel": "STAT News"
-    },
-    {
-      "level": "macro",
-      "levelLabel": "Macro",
-      "cat": "Consumer trend",
-      "date": "13 Jun 2026",
-      "title": "Patients move less after starting GLP-1s, raising muscle-loss concerns (ENDO 2026)",
-      "summary": "A retrospective analysis of NIH All of Us data (753 adults with adequate wearable data) presented at ENDO 2026 found daily steps fell from about 5,047 to 4,487 and moderate-to-vigorous activity dropped from ~27.9 to ~22.2 minutes per day after starting a GLP-1. Declines were steepest among men and people with musculoskeletal pain. (Figures approximate.)",
-      "why": "Reinforces the case for Protocol's <b>coaching and muscle-preserving wraparound</b> alongside GLP-1 prescriptions, rather than medication alone.",
-      "src": "https://www.healio.com/news/endocrinology/20260613/exercise-declined-in-patients-with-obesity-after-starting-a-glp1",
-      "srcLabel": "Healio"
-    },
-    {
-      "level": "macro",
-      "levelLabel": "Macro",
       "cat": "Regulation & pricing",
-      "date": "10 Jun 2026",
-      "title": "Canada launches new preventive-health advisory committee on cancer screening",
-      "summary": "Canada's federal government announced a new preventive health care advisory committee on 10 June to issue guidance on screening for conditions including cervical and breast cancer, after disbanding its previous task force. The committee is intended to set national screening recommendations.",
-      "why": "Government-level screening-guidance shifts in major markets foreshadow <b>evolving standards Protocol's screening protocols</b> should track and benchmark against.",
-      "src": "https://www.cbc.ca/news/health/canada-preventive-health-committee-9.7230303",
-      "srcLabel": "CBC News"
+      "date": "18 Jun 2026",
+      "title": "HHS/FDA requests sweeping testosterone-therapy label changes, easing age-related use",
+      "summary": "HHS, via the FDA, announced it is requesting updates to prescribing information for all testosterone replacement therapy products after a review of new evidence. The requested changes would remove the limitation of use for age-related hypogonadism, narrow the prostate-cancer contraindication to metastatic disease only, and reflect the TRAVERSE trial's finding of no meaningful increase in major cardiovascular events. The revisions are a request to manufacturers, to be implemented through the standard labeling process.",
+      "why": "Directly bears on Protocol's hormone-therapy line — a more <b>permissive regulatory stance on TRT for age-related low testosterone</b> could expand the eligible patient pool and de-stigmatise prescribing, while raising the bar on patient education and monitoring.",
+      "src": "https://www.hhs.gov/press-room/fda-requests-updates-testosterone-therapy-labeling.html",
+      "srcLabel": "HHS.gov"
     },
     {
       "level": "micro",
       "levelLabel": "Micro",
-      "cat": "New product / innovation",
-      "date": "8 Jun 2026",
-      "title": "Longevitix launches AI 'clinical intelligence' platform for longevity & preventive clinics",
-      "summary": "Longevitix launched a platform that unifies labs, wearables, notes and clinical history into physician-ready summaries, prioritized insights and personalized intervention plans across cardiovascular, metabolic, hormonal, thyroid and other domains. It is aimed at longevity, concierge, functional and preventive-medicine clinics.",
-      "why": "Directly relevant to Protocol's <b>integrated screening-plus-data model</b> — a competing toolset for turning multi-omic screening data into clinician-ready plans.",
-      "src": "https://www.globenewswire.com/news-release/2026/06/08/3308080/0/en/Longevitix-Launches-Clinical-Intelligence-Platform-for-Preventive-and-Longevity-Medicine.html",
-      "srcLabel": "GlobeNewswire"
+      "cat": "New test / innovation",
+      "date": "16 Jun 2026",
+      "title": "Cizzle Bio completes US lab validation of CIZ1B early lung-cancer blood test",
+      "summary": "Cizzle Bio announced laboratory validation of its CIZ1B biomarker blood test at OmniHealth Diagnostics, a CLIA-certified lab in Dallas, clearing a key step toward US clinical availability. CIZ1B is an ELISA-based immunoassay that detects a protein variant linked to early-stage lung cancer using less than a tablespoon of blood. The company said it is now finalising launch-readiness activities for near-term availability to US providers.",
+      "why": "Adds a low-cost, blood-based <b>single-cancer early-detection assay</b> to a fast-growing menu — relevant context for how Protocol positions SPOT-MAS multi-cancer detection against cheaper, organ-specific blood tests.",
+      "src": "https://www.prnewswire.com/news-releases/cizzle-bio-announces-laboratory-validation-of-ciz1b-biomarker-blood-test-for-early-lung-cancer-at-omnihealth-diagnostics-302799735.html",
+      "srcLabel": "PR Newswire"
     }
   ]
 }
