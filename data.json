@@ -1,28 +1,72 @@
 {
-  "edition": "22 June 2026",
-  "windowLabel": "16–22 June 2026",
+  "edition": "29 June 2026",
+  "windowLabel": "22–29 June 2026",
   "items": [
     {
       "level": "macro",
       "levelLabel": "Macro",
+      "cat": "Clinical evidence",
+      "date": "25 Jun 2026",
+      "title": "SPOT-MAS multi-cancer blood test posts strong real-world results across six Asian countries",
+      "summary": "Data presented at the ASCO Breakthrough Meeting (25–27 Jun, Singapore) showed the SPOT-MAS MCED test achieved ~79.0% sensitivity and ~99.9% specificity in a real-world cohort spanning Vietnam, Thailand, Indonesia, the Philippines, Malaysia and Singapore. The study covered asymptomatic adults in routine clinical practice rather than a controlled trial. Figures are approximate and should be verified against the primary abstract.",
+      "why": "SPOT-MAS is one of Protocol's own offerings — <b>fresh real-world Asian evidence strengthens the clinical case Protocol can make to patients</b>.",
+      "src": "https://ascopost.com/news/june-2026/multi-cancer-early-detection-test-performs-well-in-real-world-asian-cohort/",
+      "srcLabel": "The ASCO Post"
+    },
+    {
+      "level": "macro",
+      "levelLabel": "Macro",
+      "cat": "Clinical evidence",
+      "date": "24 Jun 2026",
+      "title": "Oral GLP-1 aleniglipron drives up to ~12% weight loss in Phase II",
+      "summary": "Northwestern researchers reported Phase II results (published in Nature Medicine) for aleniglipron, an orally administered small-molecule GLP-1, showing up to roughly 12% body-weight reduction at 36 weeks. Unlike injectable semaglutide, it is a pill. The ~12% figure is approximate — verify against the Nature Medicine paper.",
+      "why": "Oral GLP-1s could reshape the weight-loss medication market underpinning Protocol's program — <b>worth tracking for future formulary and pricing decisions</b>.",
+      "src": "https://news.feinberg.northwestern.edu/2026/06/24/new-glp-1-drug-promotes-weight-loss-in-obesity/",
+      "srcLabel": "Northwestern Feinberg News"
+    },
+    {
+      "level": "macro",
+      "levelLabel": "Macro",
+      "cat": "Consumer trend",
+      "date": "26 Jun 2026",
+      "title": "Cheaper GLP-1 pills may strain, not ease, employer insurance coverage",
+      "summary": "CNBC reported that breakthrough oral GLP-1 weight-loss drugs, by widening the eligible population and demand, could increase total spend for employer health plans even as per-unit prices fall. The piece frames affordability and access as an unresolved tension heading into wider availability.",
+      "why": "Signals how payer dynamics may push more patients toward <b>cash-pay, integrated weight-loss programs like Protocol's</b>.",
+      "src": "https://www.cnbc.com/2026/06/26/glp1-weight-loss-drug-pills-insurance-plan-coverage.html",
+      "srcLabel": "CNBC"
+    },
+    {
+      "level": "macro",
+      "levelLabel": "Macro",
       "cat": "Regulation & pricing",
-      "date": "18 Jun 2026",
-      "title": "HHS/FDA requests sweeping testosterone-therapy label changes, easing age-related use",
-      "summary": "HHS, via the FDA, announced it is requesting updates to prescribing information for all testosterone replacement therapy products after a review of new evidence. The requested changes would remove the limitation of use for age-related hypogonadism, narrow the prostate-cancer contraindication to metastatic disease only, and reflect the TRAVERSE trial's finding of no meaningful increase in major cardiovascular events. The revisions are a request to manufacturers, to be implemented through the standard labeling process.",
-      "why": "Directly bears on Protocol's hormone-therapy line — a more <b>permissive regulatory stance on TRT for age-related low testosterone</b> could expand the eligible patient pool and de-stigmatise prescribing, while raising the bar on patient education and monitoring.",
-      "src": "https://www.hhs.gov/press-room/fda-requests-updates-testosterone-therapy-labeling.html",
-      "srcLabel": "HHS.gov"
+      "date": "23 Jun 2026",
+      "title": "Multi-cancer early-detection blood tests inch toward mainstream US availability",
+      "summary": "An NPR feature (syndicated 23 Jun) noted the FDA could approve the first MCED blood test (Galleri) around year-end, with Galleri and Abbott's Cancerguard already orderable under special designations. Broad insurance coverage still lags; Medicare reimbursement for MCED is slated for 2028. Dates and timelines are as reported and may shift.",
+      "why": "Mainstreaming of MCED validates Protocol's early-detection positioning while raising the <b>competitive bar on test menus and patient education</b>.",
+      "src": "https://news.azpm.org/p/healthnews/2026/6/23/230240-a-blood-test-that-screens-for-multiple-types-of-cancer-it-may-be-available-soon/",
+      "srcLabel": "Arizona Public Media (NPR)"
     },
     {
       "level": "micro",
       "levelLabel": "Micro",
-      "cat": "New test / innovation",
-      "date": "16 Jun 2026",
-      "title": "Cizzle Bio completes US lab validation of CIZ1B early lung-cancer blood test",
-      "summary": "Cizzle Bio announced laboratory validation of its CIZ1B biomarker blood test at OmniHealth Diagnostics, a CLIA-certified lab in Dallas, clearing a key step toward US clinical availability. CIZ1B is an ELISA-based immunoassay that detects a protein variant linked to early-stage lung cancer using less than a tablespoon of blood. The company said it is now finalising launch-readiness activities for near-term availability to US providers.",
-      "why": "Adds a low-cost, blood-based <b>single-cancer early-detection assay</b> to a fast-growing menu — relevant context for how Protocol positions SPOT-MAS multi-cancer detection against cheaper, organ-specific blood tests.",
-      "src": "https://www.prnewswire.com/news-releases/cizzle-bio-announces-laboratory-validation-of-ciz1b-biomarker-blood-test-for-early-lung-cancer-at-omnihealth-diagnostics-302799735.html",
+      "cat": "New product / SKU",
+      "date": "23 Jun 2026",
+      "title": "Diagnostic.ly launches AI at-home diagnostics automation for 'test & treat' workflows",
+      "summary": "Global Diagnostics Technologies (Diagnostic.ly) announced an expanded at-home diagnostics platform that turns results into automated clinical action and flags specimen-collection failures in real time, including a patent-pending AI specimen-collection observation system. Announced via PR Newswire on 23 Jun 2026.",
+      "why": "At-home collection plus automated follow-up is the same integrated screen-to-action loop Protocol runs — <b>a model competitors are now productizing</b>.",
+      "src": "https://www.prnewswire.com/news-releases/diagnosticly-unveils-new-at-home-diagnostics-capabilities-to-automate-test--treat-and-treat--prove-care-302807820.html",
       "srcLabel": "PR Newswire"
+    },
+    {
+      "level": "macro",
+      "levelLabel": "Macro",
+      "cat": "Funding & M&A",
+      "date": "25 Jun 2026",
+      "title": "Health-insurer/prevention platform Alan raises €480M Series G at ~€5.5B valuation",
+      "summary": "French digital health insurer Alan, which bundles insurance with prevention and everyday care, raised a reported ~€480M Series G led by Prosus at an approximate €5.5B valuation. Figures per the funding roundup dated 25 Jun 2026; verify against primary sources.",
+      "why": "Capital continues to flow to <b>integrated prevention-plus-care models</b>, the category Protocol competes in.",
+      "src": "https://techstartups.com/2026/06/25/venture-capital-startup-funding-roundup-june-25-2026/",
+      "srcLabel": "Tech Startups"
     }
   ]
 }
