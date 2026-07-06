@@ -1,72 +1,61 @@
 {
-  "edition": "29 June 2026",
-  "windowLabel": "22–29 June 2026",
+  "edition": "6 July 2026",
+  "windowLabel": "29 June – 6 July 2026",
   "items": [
-    {
-      "level": "macro",
-      "levelLabel": "Macro",
-      "cat": "Clinical evidence",
-      "date": "25 Jun 2026",
-      "title": "SPOT-MAS multi-cancer blood test posts strong real-world results across six Asian countries",
-      "summary": "Data presented at the ASCO Breakthrough Meeting (25–27 Jun, Singapore) showed the SPOT-MAS MCED test achieved ~79.0% sensitivity and ~99.9% specificity in a real-world cohort spanning Vietnam, Thailand, Indonesia, the Philippines, Malaysia and Singapore. The study covered asymptomatic adults in routine clinical practice rather than a controlled trial. Figures are approximate and should be verified against the primary abstract.",
-      "why": "SPOT-MAS is one of Protocol's own offerings — <b>fresh real-world Asian evidence strengthens the clinical case Protocol can make to patients</b>.",
-      "src": "https://ascopost.com/news/june-2026/multi-cancer-early-detection-test-performs-well-in-real-world-asian-cohort/",
-      "srcLabel": "The ASCO Post"
-    },
-    {
-      "level": "macro",
-      "levelLabel": "Macro",
-      "cat": "Clinical evidence",
-      "date": "24 Jun 2026",
-      "title": "Oral GLP-1 aleniglipron drives up to ~12% weight loss in Phase II",
-      "summary": "Northwestern researchers reported Phase II results (published in Nature Medicine) for aleniglipron, an orally administered small-molecule GLP-1, showing up to roughly 12% body-weight reduction at 36 weeks. Unlike injectable semaglutide, it is a pill. The ~12% figure is approximate — verify against the Nature Medicine paper.",
-      "why": "Oral GLP-1s could reshape the weight-loss medication market underpinning Protocol's program — <b>worth tracking for future formulary and pricing decisions</b>.",
-      "src": "https://news.feinberg.northwestern.edu/2026/06/24/new-glp-1-drug-promotes-weight-loss-in-obesity/",
-      "srcLabel": "Northwestern Feinberg News"
-    },
-    {
-      "level": "macro",
-      "levelLabel": "Macro",
-      "cat": "Consumer trend",
-      "date": "26 Jun 2026",
-      "title": "Cheaper GLP-1 pills may strain, not ease, employer insurance coverage",
-      "summary": "CNBC reported that breakthrough oral GLP-1 weight-loss drugs, by widening the eligible population and demand, could increase total spend for employer health plans even as per-unit prices fall. The piece frames affordability and access as an unresolved tension heading into wider availability.",
-      "why": "Signals how payer dynamics may push more patients toward <b>cash-pay, integrated weight-loss programs like Protocol's</b>.",
-      "src": "https://www.cnbc.com/2026/06/26/glp1-weight-loss-drug-pills-insurance-plan-coverage.html",
-      "srcLabel": "CNBC"
-    },
-    {
-      "level": "macro",
-      "levelLabel": "Macro",
-      "cat": "Regulation & pricing",
-      "date": "23 Jun 2026",
-      "title": "Multi-cancer early-detection blood tests inch toward mainstream US availability",
-      "summary": "An NPR feature (syndicated 23 Jun) noted the FDA could approve the first MCED blood test (Galleri) around year-end, with Galleri and Abbott's Cancerguard already orderable under special designations. Broad insurance coverage still lags; Medicare reimbursement for MCED is slated for 2028. Dates and timelines are as reported and may shift.",
-      "why": "Mainstreaming of MCED validates Protocol's early-detection positioning while raising the <b>competitive bar on test menus and patient education</b>.",
-      "src": "https://news.azpm.org/p/healthnews/2026/6/23/230240-a-blood-test-that-screens-for-multiple-types-of-cancer-it-may-be-available-soon/",
-      "srcLabel": "Arizona Public Media (NPR)"
-    },
     {
       "level": "micro",
       "levelLabel": "Micro",
       "cat": "New product / SKU",
-      "date": "23 Jun 2026",
-      "title": "Diagnostic.ly launches AI at-home diagnostics automation for 'test & treat' workflows",
-      "summary": "Global Diagnostics Technologies (Diagnostic.ly) announced an expanded at-home diagnostics platform that turns results into automated clinical action and flags specimen-collection failures in real time, including a patent-pending AI specimen-collection observation system. Announced via PR Newswire on 23 Jun 2026.",
-      "why": "At-home collection plus automated follow-up is the same integrated screen-to-action loop Protocol runs — <b>a model competitors are now productizing</b>.",
-      "src": "https://www.prnewswire.com/news-releases/diagnosticly-unveils-new-at-home-diagnostics-capabilities-to-automate-test--treat-and-treat--prove-care-302807820.html",
+      "date": "1 Jul 2026",
+      "title": "Caris Life Sciences launches Caris Detect — most comprehensive MCED blood test yet",
+      "summary": "Caris Life Sciences commercially launched Caris Detect on July 1, a multi-cancer early detection (MCED) blood test using ultra-deep Whole Genome Sequencing, Whole Transcriptome Sequencing, and AI to detect cancer signals across multiple cancer types. The Achieve 1 study (3,014 subjects) reported 61.3% Stage I–II sensitivity and 99.2% specificity in asymptomatic individuals — among the highest published figures in the MCED field. Unlike competitors relying on methylation or cfDNA fragment analysis alone, Caris Detect combines DNA and RNA signals.",
+      "why": "Caris Detect enters the MCED market directly competing with Galleri and Cancerguard; <b>Protocol's SPOT-MAS positioning should be stress-tested against this new benchmark on sensitivity and technology breadth</b>, and the market launch validates growing consumer/payer readiness for blood-based cancer screening.",
+      "src": "https://www.prnewswire.com/news-releases/caris-life-sciences-launches-caris-detect-the-worlds-most-sensitive-and-comprehensive-multi-cancer-early-detection-blood-test-302815420.html",
       "srcLabel": "PR Newswire"
     },
     {
       "level": "macro",
       "levelLabel": "Macro",
-      "cat": "Funding & M&A",
-      "date": "25 Jun 2026",
-      "title": "Health-insurer/prevention platform Alan raises €480M Series G at ~€5.5B valuation",
-      "summary": "French digital health insurer Alan, which bundles insurance with prevention and everyday care, raised a reported ~€480M Series G led by Prosus at an approximate €5.5B valuation. Figures per the funding roundup dated 25 Jun 2026; verify against primary sources.",
-      "why": "Capital continues to flow to <b>integrated prevention-plus-care models</b>, the category Protocol competes in.",
-      "src": "https://techstartups.com/2026/06/25/venture-capital-startup-funding-roundup-june-25-2026/",
-      "srcLabel": "Tech Startups"
+      "cat": "Regulation & pricing",
+      "date": "1 Jul 2026",
+      "title": "US Medicare GLP-1 Bridge program goes live at $50/month — landmark access shift",
+      "summary": "Starting July 1, the US Centers for Medicare & Medicaid Services (CMS) began covering select GLP-1 weight-loss medications (Wegovy, Zepbound KwikPen, Foundayo) at a $50 monthly copay for eligible Medicare beneficiaries. The pilot runs through December 2027 and applies to individuals with BMI ≥35, or BMI 27–35 with qualifying comorbidities. This is the first time the US government has covered obesity medications for Medicare's ~65 million enrollees.",
+      "why": "<b>The largest national payer in the world now subsidising GLP-1s for weight loss signals an irreversible mainstreaming of medical weight management</b> — reinforcing demand for Protocol's GLP-1 program and setting a pricing reference point that Asian markets and private payers will watch closely.",
+      "src": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html",
+      "srcLabel": "CNBC"
+    },
+    {
+      "level": "micro",
+      "levelLabel": "Micro",
+      "cat": "Regulation & pricing",
+      "date": "2 Jul 2026",
+      "title": "Singapore HSA opens public consultation on mandatory health supplement notification",
+      "summary": "Singapore's Health Sciences Authority (HSA) launched a 4-week public consultation (July 1–29) on a proposed Complementary Health Products regulatory framework that would make pre-market product notification mandatory for health supplements — replacing the current voluntary system active since 2022. If adopted, full compliance (including mandatory notification and labeling) would phase in from Q3 2028 to Q3 2030. The proposal also removes pre-publication advertising permit requirements in favour of post-market surveillance.",
+      "why": "<b>Protocol operates in the Singapore regulated health space; the incoming framework will raise compliance, labeling and traceability requirements for any supplements bundled with Protocol's screening or longevity protocols</b> — worth monitoring and submitting feedback during the consultation window.",
+      "src": "https://www.nutraingredients.com/Article/2026/07/02/singapore-regulator-proposes-mandatory-health-supplements-notification/",
+      "srcLabel": "NutraIngredients"
+    },
+    {
+      "level": "macro",
+      "levelLabel": "Macro",
+      "cat": "Regulation & pricing",
+      "date": "29 Jun 2026",
+      "title": "FDA public comment period closes on proposed ban of bulk-compounded GLP-1s",
+      "summary": "The comment period for the FDA's April 30 proposal to remove semaglutide, tirzepatide, and liraglutide from the 503B outsourcing facility bulk drug substances list closed on June 29. If finalised — expected Q3 2026 — large-scale compounding pharmacies will be prohibited from producing GLP-1 injectables in bulk, ending the era of cheap compounded Ozempic/Wegovy alternatives that has driven much of the direct-to-consumer telehealth GLP-1 market.",
+      "why": "<b>A compounded GLP-1 ban raises effective market prices for weight-loss medications globally and strengthens the case for Protocol's branded, clinician-supervised GLP-1 program</b> versus unregulated online compounders — a competitive positioning advantage worth communicating to patients.",
+      "src": "https://www.fda.gov/news-events/press-announcements/fda-proposes-exclude-semaglutide-tirzepatide-and-liraglutide-503b-bulks-list",
+      "srcLabel": "FDA.gov"
+    },
+    {
+      "level": "macro",
+      "levelLabel": "Macro",
+      "cat": "Clinical evidence",
+      "date": "1 Jul 2026",
+      "title": "GRAIL's Galleri MCED test: FDA PMA review ongoing, Medicare coverage set for 2028",
+      "summary": "GRAIL submitted the final module of its Premarket Approval application for the Galleri multi-cancer early detection test to the FDA in January 2026, with the review ongoing. A complementary legislative milestone: the US Congress passed spending provisions establishing a Medicare coverage pathway for MCED tests from 2028. Galleri's PATHFINDER 2 trial data — showing >7-fold increase in cancer detection when added to standard screening — underpins the PMA. An FDA decision is widely anticipated in late 2026.",
+      "why": "<b>If Galleri receives FDA approval in H2 2026, it will become the first government-cleared MCED test, accelerating payer coverage and global adoption of the cancer blood test category</b> — directly relevant to how Protocol positions and prices SPOT-MAS, and a signal to watch for regulatory timelines in Singapore/APAC.",
+      "src": "https://grail.com/press-releases/grail-submits-fda-premarket-approval-application-for-the-galleri-multi-cancer-early-detection-test/",
+      "srcLabel": "GRAIL"
     }
   ]
 }
