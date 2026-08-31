@@ -1,61 +1,50 @@
 {
-  "edition": "6 July 2026",
-  "windowLabel": "29 June – 6 July 2026",
+  "edition": "31 August 2026",
+  "windowLabel": "24–31 August 2026",
   "items": [
-    {
-      "level": "micro",
-      "levelLabel": "Micro",
-      "cat": "New product / SKU",
-      "date": "1 Jul 2026",
-      "title": "Caris Life Sciences launches Caris Detect — most comprehensive MCED blood test yet",
-      "summary": "Caris Life Sciences commercially launched Caris Detect on July 1, a multi-cancer early detection (MCED) blood test using ultra-deep Whole Genome Sequencing, Whole Transcriptome Sequencing, and AI to detect cancer signals across multiple cancer types. The Achieve 1 study (3,014 subjects) reported 61.3% Stage I–II sensitivity and 99.2% specificity in asymptomatic individuals — among the highest published figures in the MCED field. Unlike competitors relying on methylation or cfDNA fragment analysis alone, Caris Detect combines DNA and RNA signals.",
-      "why": "Caris Detect enters the MCED market directly competing with Galleri and Cancerguard; <b>Protocol's SPOT-MAS positioning should be stress-tested against this new benchmark on sensitivity and technology breadth</b>, and the market launch validates growing consumer/payer readiness for blood-based cancer screening.",
-      "src": "https://www.prnewswire.com/news-releases/caris-life-sciences-launches-caris-detect-the-worlds-most-sensitive-and-comprehensive-multi-cancer-early-detection-blood-test-302815420.html",
-      "srcLabel": "PR Newswire"
-    },
-    {
-      "level": "macro",
-      "levelLabel": "Macro",
-      "cat": "Regulation & pricing",
-      "date": "1 Jul 2026",
-      "title": "US Medicare GLP-1 Bridge program goes live at $50/month — landmark access shift",
-      "summary": "Starting July 1, the US Centers for Medicare & Medicaid Services (CMS) began covering select GLP-1 weight-loss medications (Wegovy, Zepbound KwikPen, Foundayo) at a $50 monthly copay for eligible Medicare beneficiaries. The pilot runs through December 2027 and applies to individuals with BMI ≥35, or BMI 27–35 with qualifying comorbidities. This is the first time the US government has covered obesity medications for Medicare's ~65 million enrollees.",
-      "why": "<b>The largest national payer in the world now subsidising GLP-1s for weight loss signals an irreversible mainstreaming of medical weight management</b> — reinforcing demand for Protocol's GLP-1 program and setting a pricing reference point that Asian markets and private payers will watch closely.",
-      "src": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html",
-      "srcLabel": "CNBC"
-    },
-    {
-      "level": "micro",
-      "levelLabel": "Micro",
-      "cat": "Regulation & pricing",
-      "date": "2 Jul 2026",
-      "title": "Singapore HSA opens public consultation on mandatory health supplement notification",
-      "summary": "Singapore's Health Sciences Authority (HSA) launched a 4-week public consultation (July 1–29) on a proposed Complementary Health Products regulatory framework that would make pre-market product notification mandatory for health supplements — replacing the current voluntary system active since 2022. If adopted, full compliance (including mandatory notification and labeling) would phase in from Q3 2028 to Q3 2030. The proposal also removes pre-publication advertising permit requirements in favour of post-market surveillance.",
-      "why": "<b>Protocol operates in the Singapore regulated health space; the incoming framework will raise compliance, labeling and traceability requirements for any supplements bundled with Protocol's screening or longevity protocols</b> — worth monitoring and submitting feedback during the consultation window.",
-      "src": "https://www.nutraingredients.com/Article/2026/07/02/singapore-regulator-proposes-mandatory-health-supplements-notification/",
-      "srcLabel": "NutraIngredients"
-    },
-    {
-      "level": "macro",
-      "levelLabel": "Macro",
-      "cat": "Regulation & pricing",
-      "date": "29 Jun 2026",
-      "title": "FDA public comment period closes on proposed ban of bulk-compounded GLP-1s",
-      "summary": "The comment period for the FDA's April 30 proposal to remove semaglutide, tirzepatide, and liraglutide from the 503B outsourcing facility bulk drug substances list closed on June 29. If finalised — expected Q3 2026 — large-scale compounding pharmacies will be prohibited from producing GLP-1 injectables in bulk, ending the era of cheap compounded Ozempic/Wegovy alternatives that has driven much of the direct-to-consumer telehealth GLP-1 market.",
-      "why": "<b>A compounded GLP-1 ban raises effective market prices for weight-loss medications globally and strengthens the case for Protocol's branded, clinician-supervised GLP-1 program</b> versus unregulated online compounders — a competitive positioning advantage worth communicating to patients.",
-      "src": "https://www.fda.gov/news-events/press-announcements/fda-proposes-exclude-semaglutide-tirzepatide-and-liraglutide-503b-bulks-list",
-      "srcLabel": "FDA.gov"
-    },
     {
       "level": "macro",
       "levelLabel": "Macro",
       "cat": "Clinical evidence",
-      "date": "1 Jul 2026",
-      "title": "GRAIL's Galleri MCED test: FDA PMA review ongoing, Medicare coverage set for 2028",
-      "summary": "GRAIL submitted the final module of its Premarket Approval application for the Galleri multi-cancer early detection test to the FDA in January 2026, with the review ongoing. A complementary legislative milestone: the US Congress passed spending provisions establishing a Medicare coverage pathway for MCED tests from 2028. Galleri's PATHFINDER 2 trial data — showing >7-fold increase in cancer detection when added to standard screening — underpins the PMA. An FDA decision is widely anticipated in late 2026.",
-      "why": "<b>If Galleri receives FDA approval in H2 2026, it will become the first government-cleared MCED test, accelerating payer coverage and global adoption of the cancer blood test category</b> — directly relevant to how Protocol positions and prices SPOT-MAS, and a signal to watch for regulatory timelines in Singapore/APAC.",
-      "src": "https://grail.com/press-releases/grail-submits-fda-premarket-approval-application-for-the-galleri-multi-cancer-early-detection-test/",
-      "srcLabel": "GRAIL"
+      "date": "29 Aug 2026",
+      "title": "STAREE: statins cut major cardiovascular events 30% in healthy over-70s — but not disability-free survival",
+      "summary": "Presented in a Hot Line session at ESC Congress 2026 in Munich and published simultaneously in the New England Journal of Medicine, STAREE randomised 9,971 Australians aged 70+ with no known cardiovascular disease, diabetes or dementia to atorvastatin 40 mg daily or placebo. Over a median 5.9 years, major cardiovascular events fell 30% (6.0% vs 8.3%; HR 0.70, 95% CI 0.61–0.82). The co-primary endpoint of disability-free survival was not significantly improved (12.8% vs 13.6%; HR 0.94, p=0.25).",
+      "why": "The first large primary-prevention statin trial in over-70s gives Protocol <b>hard evidence to act on lipid findings in older screening clients</b> — while the null disability endpoint is a caution against overselling healthspan claims.",
+      "src": "https://www.escardio.org/news/press/press-releases/cholesterol-lowering-medication-reduces-major-cardiovascular-events-by-30-per-cent-in-older-people-without-known-cardiovascular-disease/",
+      "srcLabel": "European Society of Cardiology"
+    },
+    {
+      "level": "macro",
+      "levelLabel": "Macro",
+      "cat": "Regulation & pricing",
+      "date": "28 Aug 2026",
+      "title": "CMS says it has blocked $1.6bn in improper Medicare lab payments, revoking 157 laboratories",
+      "summary": "CMS announced it has prevented more than $1.6 billion in potentially fraudulent Medicare laboratory payments, including revoking 157 laboratory providers (approximately $732 million in savings) and suspending over $500 million in payments tied to investigations of hundreds of labs. The agency says AI and machine-learning analytics were used to flag unusual billing patterns. All figures are as reported by CMS and should be treated as approximate.",
+      "why": "Payer and regulator scrutiny of high-volume lab billing is intensifying; <b>cash-pay, transparent-price screening models like Protocol's largely sidestep this risk</b>, but expect harder questions everywhere on justifying broad test panels.",
+      "src": "https://www.alston.com/en/insights/publications/2026/08/hcwir-august-28-2026",
+      "srcLabel": "Alston & Bird — Health Care Week in Review"
+    },
+    {
+      "level": "micro",
+      "levelLabel": "Micro",
+      "cat": "New test / innovation",
+      "date": "24 Aug 2026",
+      "title": "FDA clears Roche Elecsys pTau217 — first single-biomarker blood test to both rule in and rule out Alzheimer's amyloid",
+      "summary": "Roche announced FDA clearance of Elecsys Phospho-Tau (217P) Plasma, developed with Eli Lilly, to aid identification of amyloid pathology in people aged 55+ with signs or symptoms of cognitive decline. Roche describes it as the first FDA-cleared single-biomarker blood test supporting both rule-in and rule-out assessment using the same validated cutoffs across primary and specialty care. Press reports describe it as the fourth Alzheimer's blood test cleared by the FDA in under two years.",
+      "why": "Neuro-cognitive biomarkers are moving out of specialist referral and into ordinary blood panels — <b>a credible future pillar alongside Protocol's metabolic, hormonal and cancer screening</b>, though the clearance covers symptomatic patients, not asymptomatic screening.",
+      "src": "https://www.roche.com/investors/updates/inv-update-2026-08-24",
+      "srcLabel": "Roche"
+    },
+    {
+      "level": "micro",
+      "levelLabel": "Micro",
+      "cat": "New product / SKU",
+      "date": "25 Aug 2026",
+      "title": "FDA authorises the first wearable that continuously monitors both glucose and ketones",
+      "summary": "The FDA granted marketing authorisation to the Libre Duo 10 Day Continuous Dual Glucose Ketone Monitoring System for people aged 2 and older living with diabetes. The sensor measures both ketones and glucose in interstitial fluid every minute and can alert users when ketone levels approach a concerning threshold, ahead of diabetic ketoacidosis. FDA says the clinical programme drew on six studies enrolling more than 600 participants (approximate — verify against the FDA release).",
+      "why": "Continuous metabolic sensing keeps widening beyond glucose; <b>ketone data pairs naturally with GLP-1 and weight-loss coaching</b> and raises the bar for what counts as metabolic monitoring in an integrated longevity programme.",
+      "src": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "srcLabel": "U.S. Food and Drug Administration"
     }
   ]
 }
