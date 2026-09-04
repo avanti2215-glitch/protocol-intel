@@ -1,50 +1,105 @@
 {
-  "edition": "31 August 2026",
-  "windowLabel": "24–31 August 2026",
+  "edition": "4 September 2026",
+  "windowLabel": "28 August – 4 September 2026",
   "items": [
+    {
+      "level": "micro",
+      "levelLabel": "Micro",
+      "cat": "Regulation & pricing",
+      "date": "3 Sep 2026",
+      "title": "Carelon adds coverage for Guardant's Shield colorectal blood test, taking covered lives to ~90 million",
+      "summary": "Carelon Healthcare Services, which manages specialty benefits for Blue Cross Blue Shield plans across 26 states, updated its clinical guidelines to cover Guardant Health's Shield blood-based colorectal cancer screening test, effective 15 November. Guardant says the policy lifts total covered lives for Shield to approximately 90 million, or roughly 75% of the eligible US population. Shield is FDA-approved for primary CRC screening in average-risk adults aged 45+. (Figures are company-reported and approximate.)",
+      "why": "The single clearest signal yet that <b>blood-based cancer screening is crossing from cash-pay novelty into reimbursed standard of care</b> — the same transition that will eventually reset consumer price expectations for SPOT-MAS and other MCED offers in Singapore.",
+      "src": "https://clpmag.com/disease-states/cancer/colorectal/carelon-expands-coverage-guardant-shield-colorectal-cancer-blood-test/",
+      "srcLabel": "Clinical Lab Products"
+    },
+    {
+      "level": "macro",
+      "levelLabel": "Macro",
+      "cat": "Funding & M&A",
+      "date": "3 Sep 2026",
+      "title": "Oura files S-1 for a Nasdaq IPO as it pushes deeper into preventive health",
+      "summary": "Smart ring maker Oura filed its registration statement with the SEC for a proposed IPO, planning to trade under the ticker \"OURA\". MobiHealthNews frames the filing around the company's continued expansion into preventive health. Reported financials circulating alongside the filing (revenue and paid-member counts) should be read directly from the S-1 rather than secondary coverage.",
+      "why": "A consumer wearable listing on a preventive-health story sets a <b>public-market benchmark for the continuous-monitoring layer</b> that sits upstream of Protocol's biomarker panels — and a likely future competitor for the same annual wallet.",
+      "src": "https://www.mobihealthnews.com/news/oura-files-ipo",
+      "srcLabel": "MobiHealthNews"
+    },
     {
       "level": "macro",
       "levelLabel": "Macro",
       "cat": "Clinical evidence",
       "date": "29 Aug 2026",
-      "title": "STAREE: statins cut major cardiovascular events 30% in healthy over-70s — but not disability-free survival",
-      "summary": "Presented in a Hot Line session at ESC Congress 2026 in Munich and published simultaneously in the New England Journal of Medicine, STAREE randomised 9,971 Australians aged 70+ with no known cardiovascular disease, diabetes or dementia to atorvastatin 40 mg daily or placebo. Over a median 5.9 years, major cardiovascular events fell 30% (6.0% vs 8.3%; HR 0.70, 95% CI 0.61–0.82). The co-primary endpoint of disability-free survival was not significantly improved (12.8% vs 13.6%; HR 0.94, p=0.25).",
-      "why": "The first large primary-prevention statin trial in over-70s gives Protocol <b>hard evidence to act on lipid findings in older screening clients</b> — while the null disability endpoint is a caution against overselling healthspan claims.",
+      "title": "STAREE: atorvastatin cuts major cardiovascular events 30% in healthy over-70s, but not disability-free survival",
+      "summary": "In a 9,971-participant, double-blind Australian primary-prevention trial presented in a Hot Line session at ESC Congress 2026 and published simultaneously in the New England Journal of Medicine, atorvastatin 40 mg daily reduced major cardiovascular events versus placebo over a median 5.9 years (6.0% vs 8.3%; HR 0.70). Disability-free survival did not differ significantly (12.8% vs 13.6%; HR 0.94, p=0.25). Muscle, liver and diabetes-related adverse events were more frequent on atorvastatin.",
+      "why": "The first randomised evidence that statin primary prevention works in people over 70 — a <b>direct, guideline-grade justification for lipid panels and pharmacological intervention in Protocol's older screening cohort</b>, while the null healthspan endpoint tempers the longevity pitch.",
       "src": "https://www.escardio.org/news/press/press-releases/cholesterol-lowering-medication-reduces-major-cardiovascular-events-by-30-per-cent-in-older-people-without-known-cardiovascular-disease/",
       "srcLabel": "European Society of Cardiology"
     },
     {
       "level": "macro",
       "levelLabel": "Macro",
-      "cat": "Regulation & pricing",
-      "date": "28 Aug 2026",
-      "title": "CMS says it has blocked $1.6bn in improper Medicare lab payments, revoking 157 laboratories",
-      "summary": "CMS announced it has prevented more than $1.6 billion in potentially fraudulent Medicare laboratory payments, including revoking 157 laboratory providers (approximately $732 million in savings) and suspending over $500 million in payments tied to investigations of hundreds of labs. The agency says AI and machine-learning analytics were used to flag unusual billing patterns. All figures are as reported by CMS and should be treated as approximate.",
-      "why": "Payer and regulator scrutiny of high-volume lab billing is intensifying; <b>cash-pay, transparent-price screening models like Protocol's largely sidestep this risk</b>, but expect harder questions everywhere on justifying broad test panels.",
-      "src": "https://www.alston.com/en/insights/publications/2026/08/hcwir-august-28-2026",
-      "srcLabel": "Alston & Bird — Health Care Week in Review"
+      "cat": "Clinical evidence",
+      "date": "2 Sep 2026",
+      "title": "ESC Congress 2026 closes as largest ever, with AI as the spotlight theme",
+      "summary": "The European Society of Cardiology reported that 33,800 healthcare professionals from 170 countries attended ESC Congress 2026 in Munich (28–31 August), its largest flagship meeting to date. The programme included 12 Hot Line sessions and 30 Late-Breaking Science sessions, three new Clinical Practice Guidelines, and the Fifth Universal Definition of Myocardial Infarction. More than 180 studies were published simultaneously in leading journals.",
+      "why": "Cardiovascular medicine's biggest stage spent the week on AI-assisted risk detection and prevention guidelines — the <b>evidence base Protocol's cardiometabolic screening claims will be measured against</b> over the next 12 months.",
+      "src": "https://www.escardio.org/news/press/press-releases/record-breaking-esc-congress-2026-puts-new-life-saving-cardiovascular-science-in-the-spotlight/",
+      "srcLabel": "European Society of Cardiology"
+    },
+    {
+      "level": "macro",
+      "levelLabel": "Macro",
+      "cat": "Funding & M&A",
+      "date": "1 Sep 2026",
+      "title": "Scan.com raises $220M to expand US medical imaging access",
+      "summary": "Scan.com secured $220 million in financing to expand its US medical imaging business, comprising a $90 million Series C equity round and $130 million in debt facilities, according to MobiHealthNews.",
+      "why": "Capital keeps flowing to <b>consumer-routed diagnostic access rather than to new assays</b> — a reminder that distribution and booking friction, not test menus, is where the preventive-health category is currently competing.",
+      "src": "https://www.mobihealthnews.com/news/scancom-secures-220m-us-medical-imaging-expansion",
+      "srcLabel": "MobiHealthNews"
     },
     {
       "level": "micro",
       "levelLabel": "Micro",
       "cat": "New test / innovation",
-      "date": "24 Aug 2026",
-      "title": "FDA clears Roche Elecsys pTau217 — first single-biomarker blood test to both rule in and rule out Alzheimer's amyloid",
-      "summary": "Roche announced FDA clearance of Elecsys Phospho-Tau (217P) Plasma, developed with Eli Lilly, to aid identification of amyloid pathology in people aged 55+ with signs or symptoms of cognitive decline. Roche describes it as the first FDA-cleared single-biomarker blood test supporting both rule-in and rule-out assessment using the same validated cutoffs across primary and specialty care. Press reports describe it as the fourth Alzheimer's blood test cleared by the FDA in under two years.",
-      "why": "Neuro-cognitive biomarkers are moving out of specialist referral and into ordinary blood panels — <b>a credible future pillar alongside Protocol's metabolic, hormonal and cancer screening</b>, though the clearance covers symptomatic patients, not asymptomatic screening.",
-      "src": "https://www.roche.com/investors/updates/inv-update-2026-08-24",
-      "srcLabel": "Roche"
+      "date": "2 Sep 2026",
+      "title": "Elucid raises $55M for AI cardiovascular imaging software",
+      "summary": "Elucid closed a $55 million round to expand its platforms and advance its BioIntegrated FFR-CT technology through the FDA clearance process, MobiHealthNews reported.",
+      "why": "Plaque-level imaging analytics are moving toward regulatory clearance, which would let clinics <b>quantify cardiovascular risk beyond lipids</b> — a plausible future add-on SKU above Protocol's 100+ biomarker panel.",
+      "src": "https://www.mobihealthnews.com/news/elucid-raises-55m-ai-cardiovascular-imaging-software",
+      "srcLabel": "MobiHealthNews"
+    },
+    {
+      "level": "micro",
+      "levelLabel": "Micro",
+      "cat": "New test / innovation",
+      "date": "3 Sep 2026",
+      "title": "South Korean retinal AI screens for dementia and predicts future risk",
+      "summary": "An explainable AI model developed in South Korea screens for dementia and predicts future risk from retinal images, outperforming the conventional CAIDE Dementia Risk Score in both detection and prediction, according to MobiHealthNews Asia. Performance figures should be confirmed against the underlying publication before being quoted.",
+      "why": "Retinal imaging is cheap, fast and already routine in Asia — making it a <b>credible near-term cognitive-risk module for an Asian screening clinic</b>, and a category Protocol's Singapore competitors could bolt on quickly.",
+      "src": "https://www.mobihealthnews.com/news/asia/retinal-ai-screens-dementia-predicts-future-risk",
+      "srcLabel": "MobiHealthNews Asia"
     },
     {
       "level": "micro",
       "levelLabel": "Micro",
       "cat": "New product / SKU",
-      "date": "25 Aug 2026",
-      "title": "FDA authorises the first wearable that continuously monitors both glucose and ketones",
-      "summary": "The FDA granted marketing authorisation to the Libre Duo 10 Day Continuous Dual Glucose Ketone Monitoring System for people aged 2 and older living with diabetes. The sensor measures both ketones and glucose in interstitial fluid every minute and can alert users when ketone levels approach a concerning threshold, ahead of diabetic ketoacidosis. FDA says the clinical programme drew on six studies enrolling more than 600 participants (approximate — verify against the FDA release).",
-      "why": "Continuous metabolic sensing keeps widening beyond glucose; <b>ketone data pairs naturally with GLP-1 and weight-loss coaching</b> and raises the bar for what counts as metabolic monitoring in an integrated longevity programme.",
-      "src": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "srcLabel": "U.S. Food and Drug Administration"
+      "date": "1 Sep 2026",
+      "title": "GE HealthCare secures CE mark for photon-counting CT system",
+      "summary": "GE HealthCare received CE mark certification for its Photonova Spectra photon-counting CT system, putting it into direct competition with Siemens Healthineers in a technology designed to deliver clearer images than conventional CT, MedTech Dive reported.",
+      "why": "Photon-counting CT lowers dose while raising resolution, which strengthens the case for <b>imaging as a routine component of premium executive screening</b> rather than a specialist referral.",
+      "src": "https://www.medtechdive.com/news/ge-healthcare-secures-ce-mark-for-photon-counting-ct-device/829247/",
+      "srcLabel": "MedTech Dive"
+    },
+    {
+      "level": "micro",
+      "levelLabel": "Micro",
+      "cat": "Competitor move",
+      "date": "3 Sep 2026",
+      "title": "Vitality acquires digital health engagement company Icario",
+      "summary": "Vitality, the behaviour-linked insurance and wellness group, acquired Icario, a digital health engagement company, MobiHealthNews reported. Deal terms were not detailed in the coverage reviewed.",
+      "why": "An insurer-adjacent player buying engagement infrastructure signals that <b>adherence and behaviour change, not the screening event, is where margin is being defended</b> — the same logic behind Protocol's screening-plus-coaching model.",
+      "src": "https://www.mobihealthnews.com/news/vitality-acquires-digital-health-engagement-company-icario",
+      "srcLabel": "MobiHealthNews"
     }
   ]
 }
